@@ -1,0 +1,5 @@
+crewai[tools]==0.22.5
+pydantic==2.6.3
+load-dotenv==0.1.0
+crewai-tools==0.0.15
+langchain-groq==0.0.1
