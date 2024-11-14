@@ -3,3 +3,4 @@ pydantic==2.6.3
 load-dotenv==0.1.0
 crewai-tools==0.0.15
 langchain-groq==0.0.1
+streamlit==1.25.0
