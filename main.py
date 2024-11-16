@@ -66,4 +66,4 @@ if st.button("Generate Insights"):
     st.write("## Analysis and Recommendations")
     st.write("Below are the insights generated for your company:")
     st.write(result)
-  # Display the result in JSON format for readability
+
